@@ -2,11 +2,21 @@
   "2023-10-31": {
     "getup": 7,
     "gotobed": 11.5,
-    "time": null
+    "time": 16.5
   },
   "2023-11-01": {
     "getup": 7,
-    "gotobed": null,
+    "gotobed": 11.5,
     "time": 16.5
+  },
+  "2023-11-02": {
+    "getup": 7,
+    "gotobed": 11,
+    "time": 16.5
+  },
+  "2023-11-03": {
+    "getup": 10,
+    "gotobed": null,
+    "time": 9
   }
 }
